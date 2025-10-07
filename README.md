@@ -39,11 +39,12 @@ minikube service nextjs-service --url
 ```
 
 ## GHCR image URLs
-ghcr.io/<USERNAME>/nextjs-devops-assessment:latest
-ghcr.io/<USERNAME>/nextjs-devops-assessment:<commit-sha>
+ghcr.io/MojeshReddy/nextjs-devops-assessment:latest
+ghcr.io/MojeshReddy/nextjs-devops-assessment:first
 
 ## Submission Email
 **Subject:** DevOps Assessment Submission - [Your Name]  
 **Body:**
-Repository: https://github.com/<YOUR_USERNAME>/nextjs-devops-assessment  
-GHCR image(s): ghcr.io/<YOUR_USERNAME>/nextjs-devops-assessment:latest
+Repository: https://github.com/MojeshReddy/nextjs-devops-assessment  
+GHCR image(s): ghcr.io/MojeshReddy/nextjs-devops-assessment:latest
+# nextjs-devops-assessment
